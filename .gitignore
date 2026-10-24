@@ -1,0 +1,13 @@
+# сборка
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# настройки и журнал утилиты (создаются рядом с exe)
+WireGuardWidget.json
+WireGuardWidget.json.*
+WireGuardWidget.log
